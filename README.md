@@ -1,2 +1,3 @@
 # hello-world
-Generating new ideas.
+
+Will illustrate some of my programming work here.
